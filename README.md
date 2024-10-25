@@ -1,5 +1,5 @@
-# AI čatbota meistarklase
+# AI chatbot workshop
 
 ### 25.10.2024
 
-Koda piemēri meistarklasei
+Code samples from the workshop
